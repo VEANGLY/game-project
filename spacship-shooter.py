@@ -1,6 +1,6 @@
 import tkinter as tk
 root = tk.Tk()
-root.geometry("1100x1000")
+root.geometry("1440x1000")
 frame = tk.Frame()
 canvas = tk.Canvas(frame)
 frame.pack(expan=True,fill="both")
